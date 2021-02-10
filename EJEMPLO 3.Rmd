@@ -1,0 +1,17 @@
+---
+title: "Diana Garcia"
+image: "foto.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/diana-garc%C3%ADa-urure-863a5b18b/"
+  - label: Twitter
+    url: "https://twitter.com/DianaUrure"
+  - label: GitHub
+    url: "https://github.com/DianaGarciaUrure0399"
+  - label: Email
+    url: "mailto:dianagarciaurure@gmail.com"
+output:
+  postcards::jolla_blue
+---
+ 
+Soy estudiante de décimo ciclo de Ingeniería Industrial en la Universidad de Lima. Actualmente trabajo en IBM en el área de Global Business Services. Me gusta ver películas de ciencia ficción y documentales sobre ciencia forense y autobiográficos, amo salir a caminar y escuchar música. 
